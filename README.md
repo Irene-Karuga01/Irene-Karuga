@@ -6,10 +6,10 @@
 - I'm looking to collaborate on app creation.
 
 ## Skills I'm Building
-- Git and GitHub
-- Coding using python
-- Systematic Machine Learning
-- Unsystematic Machine Learning
+- Git and GitHub.
+- Coding using python.
+- Systematic Machine Learning.
+- Unsystematic Machine Learning.
 
 ## Current Projects
 - Study tips and techniques — We are a group of four people trying to collaborate on github. We are researching on this topic and putting our findings together.
